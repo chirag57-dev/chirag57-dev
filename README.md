@@ -1,35 +1,40 @@
-### Hey, I'm Chirag 👋
+### Hi, I'm Chirag 👋
+**DevOps & Cloud-Native Engineer (in training)** · AWS Student Builder Group · Building toward independent cloud consulting
 
-Full Stack Developer (in progress) · Cloud Computing Enthusiast · IoT Builder
-
-I don't just learn technology — I build things with it.
-Currently engineering **MediTrack Pro**, a real-time IoT patient 
-monitoring system that goes from breadboard sensors all the way 
-to a cloud-hosted clinical dashboard.
+I design, provision, and automate infrastructure — not just write code that runs on it.
+Currently deepening my DevOps stack (Terraform, Docker, CI/CD, Kubernetes) while running
+**FleetLink**, a production-style healthcare IoT monitoring system, as my flagship project.
 
 ---
 
-**What I work with:**
+**Core stack:**
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![ESP32](https://img.shields.io/badge/-ESP32-IoT-red?style=flat)
-
----
-
-**Currently building:**
-- 🏥 MediTrack Pro — Real-time patient transfer monitoring system
-- IoT → Firebase → React → Cloud — full pipeline, no shortcuts
-
-**Currently learning:**
-- Microservices architecture
-- Django + PostgreSQL
-- Docker + Kubernetes
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 ---
 
-*The best debugging happens at midnight. The best projects 
-start with a problem worth solving.*
+**🚀 Flagship project — FleetLink**
+Real-time healthcare IoT patient monitoring platform.
+- Infrastructure provisioned with Terraform, deployed on Azure AKS
+- CI/CD pipeline via GitHub Actions
+- Observability with Prometheus + Grafana
+- [→ View the repo](https://github.com/chirag57-dev/fleetlink.git)
+
+**📚 Currently learning / building**
+- Kubernetes (deployments, services, ingress) — moving past Docker Compose
+- EC2 + variables/outputs in Terraform
+
+---
+
+**Let's connect**
+- 🌐 Portfolio: [your-portfolio-url]
+- 💼 LinkedIn: https://www.linkedin.com/in/chirag-gurjar-a199a5312/
+- 📧 Email: chirag7.gurjar@gmail.com
+- 🟢 Open to freelance/consulting work in DevOps & cloud infrastructure
