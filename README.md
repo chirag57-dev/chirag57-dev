@@ -34,7 +34,7 @@ Real-time healthcare IoT patient monitoring platform.
 ---
 
 **Let's connect**
-- 🌐 Portfolio: [your-portfolio-url]
+- 🌐 Portfolio: 
 - 💼 LinkedIn: https://www.linkedin.com/in/chirag-gurjar-a199a5312/
 - 📧 Email: chirag7.gurjar@gmail.com
 - 🟢 Open to freelance/consulting work in DevOps & cloud infrastructure
